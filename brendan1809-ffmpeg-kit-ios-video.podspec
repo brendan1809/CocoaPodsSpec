@@ -42,14 +42,14 @@ Pod::Spec.new do |s|
   }
 
   s.vendored_frameworks = [
-    "bundle-apple-xcframework-ios/ffmpegkit.xcframework",
-    "bundle-apple-xcframework-ios/libavcodec.xcframework",
-    "bundle-apple-xcframework-ios/libavdevice.xcframework",
-    "bundle-apple-xcframework-ios/libavfilter.xcframework",
-    "bundle-apple-xcframework-ios/libavformat.xcframework",
-    "bundle-apple-xcframework-ios/libavutil.xcframework",
-    "bundle-apple-xcframework-ios/libswresample.xcframework",
-    "bundle-apple-xcframework-ios/libswscale.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/ffmpegkit.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libavcodec.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libavdevice.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libavfilter.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libavformat.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libavutil.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libswresample.xcframework",
+    "ffmpeg-kit-https-6.0-ios-xcframework/bundle-apple-xcframework-ios/libswscale.xcframework"
   ]
 
 end
